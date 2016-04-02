@@ -1,0 +1,6 @@
+{
+	"name"		: "MatchHandler",
+	"version"	: "0.0.2",
+	"main"		: "index.js",
+	"desc"		: "Handling Matches"
+}

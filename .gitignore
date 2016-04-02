@@ -1,0 +1,8 @@
+node_modules/express
+node_modules/sqlite3
+node_modules/matchmaking
+node_modules/srcds-logs
+node_modules/srcds-tools/node_modules
+node_modules/srcds-tools/test
+node_modules/web/node_modules
+node_modules/web/php
